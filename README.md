@@ -26,23 +26,23 @@
 
 > ### Attribute information:
 >
-> > - **<p align="justify"> Invoice id:** Computer generated sales slip invoice identification number </p>
-> > - **<p align="justify"> Branch:** Branch of supercenter (3 branches are available identified by A, B and C).</p>
-> > - **<p align="justify"> City:** Location of supercenters.</p>
-> > - **<p align="justify"> Customer type:** Type of customers, recorded by Members for customers using member card and Normal for without member card.</p>
-> > - **<p align="justify">Gender:** Gender type of customer </p>
-> > - **<p align="justify"> Product line:** General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, Home and lifestyle, Sports and travel</p>
-> > - **<p align="justify"> Unit price:** Price of each product in $</p>
-> > - **<p align="justify"> Quantity:** Number of products purchased by customer</p>
-> > - **<p align="justify"> Tax:** 5% tax fee for customer buying. </p>
-> > - **<p align="justify"> Total:** Total price including tax</p>
-> > - **<p align="justify"> Date:** Date of purchase (Record available from January 2019 to March 2019)</p>
-> > - **<p align="justify"> Time:** Purchase time (10am to 9pm)</p>
-> > - **<p align="justify"> Payment:** Payment used by customer for purchase (3 methods are available – Cash, Credit card and Ewallet). </p>
-> > - **<p align="justify"> COGS:** Cost of goods sold. </p>
-> > - **<p align="justify"> Gross margin percentage:** Gross margin percentage. </p>
-> > - **<p align="justify"> Gross income:** Gross income </p>
-> > - **<p align="justify"> Rating:** Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)</p>
+> > - **Invoice id:** Computer generated sales slip invoice identification number.
+> > - **Branch:** Branch of supercenter (3 branches are available identified by A, B and C).
+> > - **City:** Location of supercenters.
+> > - **Customer type:** Type of customers, recorded by Members for customers using member card and Normal for without member card.
+> > - **Gender:** Gender type of customer.
+> > - **Product line:** General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, Home and lifestyle, Sports and travel.
+> > - **Unit price:** Price of each product in $.
+> > - **Quantity:** Number of products purchased by customer.
+> > - **Tax:** 5% tax fee for customer buying.
+> > - **Total:** Total price including tax.
+> > - **Date:** Date of purchase (Record available from January 2019 to March 2019).
+> > - **Time:** Purchase time (10am to 9pm).
+> > - **Payment:** Payment used by customer for purchase (3 methods are available – Cash, Credit card and Ewallet).
+> > - **COGS:** Cost of goods sold.
+> > - **Gross margin percentage:** Gross margin percentage.
+> > - **Gross income:** Gross income.
+> > - **Rating:** Customer stratification rating on their overall shopping experience (On a scale of 1 to 10).
 
 <h2 align= "center">Result</h2>
 
